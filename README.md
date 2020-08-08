@@ -7,4 +7,4 @@
 | ----- | --------- | ----------- |
 | [sr.bib](sr.bib) | Single Image Super Resolution |  [Yuqing Liu](https://github.com/yuqing-liu-dut)  |
 | [ir.bib](ir.bib)  | Image/Face Restoration     | [Lingbo Yang](https://github.com/Lotayou)    |
-| [hpt.bib](hpt/bib) | Human Pose Transfer       | [Lingbo Yang](https://github.com/Lotayou)    |
+| [hpt.bib](hpt.bib) | Human Pose Transfer       | [Lingbo Yang](https://github.com/Lotayou)    |
